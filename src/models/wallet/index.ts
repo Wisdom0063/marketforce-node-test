@@ -47,9 +47,6 @@ Wallet.init(
 );
 
 
-
-
-
 export default Wallet
 
 

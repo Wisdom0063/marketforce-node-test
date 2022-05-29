@@ -62,7 +62,6 @@ export const Senarious = {
 
      },
 
-
      "InsufficientBalance":{
         expectedResult : "Balance not enough for this transfer",
         data:{
