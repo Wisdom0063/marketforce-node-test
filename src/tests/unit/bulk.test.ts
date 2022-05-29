@@ -5,7 +5,7 @@ import sequelizeConnection from "../../lib/db";
 import { dbInit, Transaction, Wallet } from "../../models";
 import { transferBulkFunds } from "../../services"
 import { transferFunds } from "../../services/tranfer";
-import { Senarious, wallets } from "./bulkTransferStory";
+import { Senarious, wallets } from "../stories";
 
 
 afterAll( ()=>{

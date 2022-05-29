@@ -26,8 +26,8 @@ To run the application
 * Run the command `npm install`
 * Create a file and name it .env in the root directory of the application
 * copy the content of the .env.sample file and update the configuration values
-* npx sequelize-cli db:migrate
-* npx sequelize-cli db:seed:all
+* Run `npx sequelize-cli db:migrate` to run the migration
+* Run `npx sequelize-cli db:seed:all` to add default wallets. Check the database to know the default wallet created
 * Run the command `npm run test` to run the e2e test
 * Run the command `npm run dev`
 
