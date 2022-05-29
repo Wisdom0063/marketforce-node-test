@@ -34,6 +34,12 @@ To run the application
 
 
 
+
+## Documentation
+
+* [API documentation](https://documenter.getpostman.com/view/6138446/Uz5CLdKn) - online, with code auto-generated snippets in cURL, jQuery, Java, Swift, Objective-C, Shell Ruby,Python Requests, Node, PHP and Go programming languages
+
+
 ## Files and Directories
 
 The project (a.k.a. project directory) has a particular directory structure. A representative project is shown below:
