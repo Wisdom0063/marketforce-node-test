@@ -1,2 +1,4 @@
 node_modules
-buiuld
+build
+.env
+.env.sample
