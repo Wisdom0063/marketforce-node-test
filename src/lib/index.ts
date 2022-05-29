@@ -5,10 +5,6 @@ import sequelizeConnection from "./db";
 import { ObjectSchema } from "joi";
 
 
-
-
-
-
 /**
  * Create an express application
  * @returns 
